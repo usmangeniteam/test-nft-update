@@ -1,18 +1,43 @@
 {
-    "creators": [
+    "name": "Number #0010",
+    "symbol": "NB",
+    "description": "Collection of 10 numbers on the blockchain. This is the number 10/10.",
+    "seller_fee_basis_points": 500,
+    "image": "https://raw.githubusercontent.com/usmangeniteam/test-nft-update/main/me.jpg",
+    "attributes": [
         {
-            "address": "CetXggXAxqdwDA8rLjv44qsnHbfUXUKrQoRPYYbT4vXD",
-            "share": 0,
-            "verified": true
+            "trait_type": "Layer-1",
+            "value": "0"
         },
         {
-            "address": "6j4nNrozTJkk1zatiXHezSLZArnRUq3WkGKHACThXGpZ",
-            "share": 100,
-            "verified": false
+            "trait_type": "Layer-2",
+            "value": "0"
+        },
+        {
+            "trait_type": "Layer-3",
+            "value": "0"
+        },
+        {
+            "trait_type": "Layer-4",
+            "value": "10"
         }
     ],
-    "name": "Number #0010",
-    "seller_fee_basis_points": 500,
-    "symbol": "NB",
-    "uri": "https://raw.githubusercontent.com/usmangeniteam/test-nft-update/main/me.jpg"
+    "properties": {
+        "creators": [
+            {
+                "address": "6j4nNrozTJkk1zatiXHezSLZArnRUq3WkGKHACThXGpZ",
+                "share": 100
+            }
+        ],
+        "files": [
+            {
+                "uri": "https://raw.githubusercontent.com/usmangeniteam/test-nft-update/main/me.jpg",
+                "type": "image/jpg"
+            }
+        ]
+    },
+    "collection": {
+        "name": "numbers",
+        "family": "numbers"
+    }
 }
