@@ -1,0 +1,18 @@
+{
+    "creators": [
+        {
+            "address": "CetXggXAxqdwDA8rLjv44qsnHbfUXUKrQoRPYYbT4vXD",
+            "share": 0,
+            "verified": true
+        },
+        {
+            "address": "6j4nNrozTJkk1zatiXHezSLZArnRUq3WkGKHACThXGpZ",
+            "share": 100,
+            "verified": false
+        }
+    ],
+    "name": "Number #0010",
+    "seller_fee_basis_points": 500,
+    "symbol": "NB",
+    "uri": "https://raw.githubusercontent.com/usmangeniteam/test-nft-update/main/me.jpg"
+}
