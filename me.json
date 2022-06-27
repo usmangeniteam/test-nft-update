@@ -1,9 +1,9 @@
 {
-    "name": "Number #0010",
-    "symbol": "NB",
-    "description": "Collection of 10 numbers on the blockchain. This is the number 10/10.",
+    "name": "Usman Khan",
+    "symbol": "UK",
+    "description": "Single entity on solana blockchain (with updated description)",
     "seller_fee_basis_points": 500,
-    "image": "https://raw.githubusercontent.com/usmangeniteam/test-nft-update/main/me.jpg",
+    "image": "https://raw.githubusercontent.com/usmangeniteam/test-nft-update/main/uk.jpeg",
     "attributes": [
         {
             "trait_type": "Layer-1",
@@ -15,29 +15,29 @@
         },
         {
             "trait_type": "Layer-3",
-            "value": "0"
+            "value": "1"
         },
         {
             "trait_type": "Layer-4",
-            "value": "10"
+            "value": "0"
         }
     ],
     "properties": {
         "creators": [
             {
-                "address": "6j4nNrozTJkk1zatiXHezSLZArnRUq3WkGKHACThXGpZ",
+                "address": "FKneVTRsEBAYh2gZZwfNj6wwCR1QvWMAazQ9Wjv6zFGD",
                 "share": 100
             }
         ],
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/usmangeniteam/test-nft-update/main/me.jpg",
-                "type": "image/jpg"
+                "uri": "https://raw.githubusercontent.com/usmangeniteam/test-nft-update/main/uk.jpeg",
+                "type": "image/jpeg"
             }
         ]
     },
     "collection": {
-        "name": "numbers",
-        "family": "numbers"
+        "name": "Usman Khan",
+        "family": "Usman Khan"
     }
 }
