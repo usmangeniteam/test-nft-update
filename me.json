@@ -1,9 +1,9 @@
 {
-    "name": "Usman Khan",
-    "symbol": "UK",
+    "name": "Demo",
+    "symbol": "DM",
     "description": "Single entity on solana blockchain (with updated description)",
     "seller_fee_basis_points": 500,
-    "image": "https://raw.githubusercontent.com/usmangeniteam/test-nft-update/main/uk.jpeg",
+    "image": "https://raw.githubusercontent.com/usmangeniteam/test-nft-update/main/0.jpg",
     "attributes": [
         {
             "trait_type": "Layer-1",
@@ -31,13 +31,13 @@
         ],
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/usmangeniteam/test-nft-update/main/uk.jpeg",
-                "type": "image/jpeg"
+                "uri": "https://raw.githubusercontent.com/usmangeniteam/test-nft-update/main/0.jpg",
+                "type": "image/jpg"
             }
         ]
     },
     "collection": {
-        "name": "Usman Khan",
-        "family": "Usman Khan"
+        "name": "Demo",
+        "family": "Demo"
     }
 }
