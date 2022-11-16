@@ -3,7 +3,7 @@
     "symbol": "DM",
     "description": "Single entity on solana blockchain (with updated description)",
     "seller_fee_basis_points": 500,
-    "image": "https://raw.githubusercontent.com/usmangeniteam/test-nft-update/main/0.jpg",
+    "image": "https://raw.githubusercontent.com/usmangeniteam/test-nft-update/main/middle.gif",
     "attributes": [
         {
             "trait_type": "Layer-1",
@@ -31,8 +31,8 @@
         ],
         "files": [
             {
-                "uri": "https://raw.githubusercontent.com/usmangeniteam/test-nft-update/main/0.jpg",
-                "type": "image/jpg"
+                "uri": "https://raw.githubusercontent.com/usmangeniteam/test-nft-update/main/middle.gif",
+                "type": "image/gif"
             }
         ]
     },
